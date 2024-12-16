@@ -55,7 +55,7 @@ areas_of_interest:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kusum-bhattarai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kusum-bhattarai&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> 
+</p>
 
 ---
 
