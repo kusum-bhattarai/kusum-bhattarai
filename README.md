@@ -7,7 +7,7 @@ Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech ent
 When I'm not coding, you’ll find me:  
 - Watching **Formula 1** and rooting for my favorite drivers. 🏎️  
 - Reading books and articles about **Philosophy, Astrophysics, and Computer Science.** 📚
-- Always looking for the perfect balance between **creativity and logic**, hehe ;) 
+- Always looking for the perfect balance between **creativity and logic**, hehe ;)
 
 ---
 
