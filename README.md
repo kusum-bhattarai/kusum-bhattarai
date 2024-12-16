@@ -58,7 +58,7 @@ areas_of_interest:
 </p>  
 
 ---
-y
+
 ## 👽 Fun Facts About Me  
 - I am a chronic reader and I love debating about various philosophical concepts.
 - I am a logic nerd and seek patterns in whatever I am doing.
