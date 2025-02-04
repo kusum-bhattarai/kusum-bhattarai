@@ -3,7 +3,8 @@
 
 Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech enthusiast**, and a **learner** who loves coming up with creative solutions through code. Whether it’s a nifty AI model, a sleek web app, or a fun side project, I enjoy turning big ideas into reality.  
 
-![IRONMAN](ascii-art (1).png) 
+![IRONMAN](https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/ascii-art%20(1).png)
+ 
 
 ---
 
