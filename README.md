@@ -35,9 +35,9 @@ areas_of_interest:
 ---
 
 ## What I'm Working On  
-- 🏎️ **Understanding Data Structures and Logic:** Tried coding a fun terminal app inspired by the infamous Clash Royale (because why not mix DSA with fun?).
-- 🧩 **Interactive Webapps & Chatbots:** Developing standalone chatbots or adding chatbots to enhance existing webapps.  
-- 🌐 **Portfolio:** Constantly iterating on my portfolio [**Quamos.dev**](https://quamos.dev) to make it better every day.  
+- **Understanding Data Structures and Logic:** Tried coding a fun terminal app inspired by the infamous Clash Royale (because why not mix DSA with fun?).
+- **Interactive Webapps & Chatbots:** Developing standalone chatbots or adding chatbots to enhance existing webapps.  
+- **Portfolio:** Constantly iterating on my portfolio [**Quamos.dev**](https://quamos.dev) to make it better every day.  
 
 ---
 
@@ -49,12 +49,9 @@ areas_of_interest:
 ---
 
 ## GitHub in Action  
-<p align="center">
- 
-  ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusum-bhattarai&theme=dark&show_icons=true)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusum-bhattarai&hide_progress=true)
-</p>
+
+ ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusum-bhattarai&theme=dark&show_icons=true)
+
 ---
 
 ## 👽 Fun Facts About Me  
