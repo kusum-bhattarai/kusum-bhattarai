@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech enthusiast**, and a **learner** who loves coming up with creative solutions through code. Whether it’s a nifty AI model, a sleek web app, or a fun side project, I enjoy turning big ideas into reality.  
 
-![IRONMAN](https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/ascii-art%20(1).png)
+<img src = "https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/nobg.png" alt = "IRONMAN" width = "400" height = "400"/>
  
 
 ---
@@ -49,9 +49,9 @@ areas_of_interest:
 
 ## GitHub in Action  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kusum-bhattarai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusum-bhattarai&theme=dark&show_icons=true)
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kusum-bhattarai&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusum-bhattarai&hide_progress=true)
 
 ---
 
