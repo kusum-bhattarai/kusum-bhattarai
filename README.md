@@ -50,8 +50,9 @@ areas_of_interest:
 
 ## GitHub in Action  
 <p align="center">
+ 
   ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusum-bhattarai&theme=dark&show_icons=true)
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kusum-bhattarai&layout=compact&theme=tokyonight" alt="Top Languages" />
+ 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusum-bhattarai&hide_progress=true)
 </p>
 ---
