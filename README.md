@@ -16,6 +16,7 @@ languages:
   - JavaScript
   - Python    
   - HTML & CSS
+  - Java
   - MIPS Assembly Language  
 frameworks/libraries:  
   - React.js
