@@ -1,5 +1,8 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="80" height="80" style="vertical-align: middle; margin-right: 10px;">
+  <strong style="font-size: 2em;">there! I'm Kusum Bhattarai Sharma :)</strong>
+</p>
 
-# 👋 Hey there! I'm Kusum Bhattarai Sharma :)
 
 Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech enthusiast**, and a **learner** who loves coming up with creative solutions through code. Whether it’s a nifty AI model, a sleek web app, or a fun side project, I enjoy turning big ideas into reality.  
 
