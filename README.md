@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="80" height="80" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="70" height="70" style="vertical-align: middle; margin-right: 10px;">
   <strong style="font-size: 2em;">there! I'm Kusum Bhattarai Sharma :)</strong>
 </p>
 
