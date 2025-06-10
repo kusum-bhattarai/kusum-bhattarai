@@ -1,7 +1,5 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="70" height="70" style="vertical-align: middle; margin-right: 10px;">
-  <strong style="font-size: 2em;">there! I'm Kusum Bhattarai Sharma :)</strong>
-</p>
+## <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="70" height="70" style="vertical-align: middle; margin-right: 10px;"> there! I'm Kusum Bhattarai Sharma :)</strong>
+
 
 
 Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech enthusiast**, and a **learner** who loves coming up with creative solutions through code. Whether it’s a nifty AI model, a sleek web app, or a fun side project, I enjoy turning big ideas into reality.  
@@ -12,69 +10,87 @@ Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech ent
 
 ---
 
-## 🛠️ My Tech Stack  
-```yaml
-languages:  
-  - C++
-  - JavaScript
-  - Python    
-  - HTML & CSS
-  - Java
-  - MIPS Assembly Language  
-frameworks/libraries:  
-  - React.js
-  - Next.js  
-  - Streamlit  
-  - Bootstrap  
-tools:  
-  - Git & GitHub  
-  - VS Code  
-  - Figma  
-areas_of_interest:  
-  - Artificial Intelligence & Machine Learning  
-  - Web Development  
-  - Passion Projects
-  - Data Science  
-```
+## 🛠️ My Technical Skills
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png" alt="Bitbucket" title="Bitbucket"/></code></td>
+		</tr>
+	</table>
+</div>
+
+
 ---
 
-## What I'm Working On  
-- **Understanding Data Structures and Logic:** Tried coding a fun terminal app inspired by the infamous Clash Royale (because why not mix DSA with fun?).
-- **Interactive Webapps & Chatbots:** Developing standalone chatbots or adding chatbots to enhance existing webapps.  
-- **Portfolio:** Constantly iterating on my portfolio [**Quamos.dev**](https://quamos.dev) to make it better every day.  
 
----
+## <img width="35" height="35" src="https://github.com/user-attachments/assets/6cbd95e5-1868-4529-8a12-bf423ed534b3" alt="batman-emoji"> When I'm not coding, you’ll find me:
 
-## When I'm not coding, you’ll find me:  
 - Watching **Formula 1** and rooting for my favorite drivers. 🏎️  
 - Reading books and articles about **Philosophy, Astrophysics, and Computer Science.** 📚
 - Always looking for the perfect balance between **creativity and logic**, hehe ;)
+- Saving the city!
+
 
 ---
 
-## GitHub in Action  
+## 🌐 Establishing Connection...
 
- ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusum-bhattarai&theme=dark&show_icons=true)
-
----
-
-## 👽 Fun Facts About Me  
-- I am a chronic reader and I love debating about various philosophical concepts.
-- I am a logic nerd and seek patterns in whatever I am doing.
-- I LOVE superheroes, and my next passion project is going to be a Friday or Jarvis clone. 😼
-- I am heavily interested in Astrophysics and Quantum Mechanics, wanna go stargazing and figure out the name of stars and constellations?
-
----
-
-## 🌐 Let's Connect  
-| **Portfolio**  | [Quamos.dev](https://quamos.dev) |  
-|--------------------|---------------------------------|  
-| **LinkedIn**   | [Kusum Bhattarai Sharma](https://www.linkedin.com/in/kusum-bhattarai-sharma/) |  
-| **Email**      | bhattaraikusum51@gmail.com |  
-
----
-
-> _"To define is to limit." – Oscar Wilde_  
-
-Thanks for stopping by! Let’s create something amazing together.  
 ```
+[████████████████████████████████████████] 100%
+> ACCESS GRANTED
+> LOADING CONTACT PROTOCOLS...
+> INITIALIZING SECURE CHANNELS...
+```
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://quamos.dev">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/kusum-bhattarai-sharma/">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:bhattaraikusum51@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+```
+> Connection established. Let's build something amazing together!
+```
+
