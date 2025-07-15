@@ -1,8 +1,25 @@
 ## <img src="https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/henlo.webp" alt="HENLO" width="70" height="70" style="vertical-align: middle; margin-right: 10px;"> there! I'm Kusum Bhattarai Sharma :)</strong>
 
+```asm
+.data
+  name:  .asciiz "I am a Computer Science Major."
+  major: .asciiz "Welcome to my Github :)"
 
+.text
+  la $a0, name   # print major
+  li $v0, 4
+  syscall
 
-Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech enthusiast**, and a **learner** who loves coming up with creative solutions through code. Whether it’s a nifty AI model, a sleek web app, or a fun side project, I enjoy turning big ideas into reality.  
+  la $a0, major  # print welcome msg
+  li $v0, 4
+  syscall
+```
+```vbnet
+Output:
+
+I am a Computer Science Major.
+Welcome to my Github :)
+```
 
 <p align = "center">
  <img src = "https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/nobg.png" alt = "IRONMAN" width = "400" height = "400"/>
@@ -73,17 +90,17 @@ Welcome to my GitHub! 👩‍💻 I'm a **Computer Science student**, **tech ent
 <tr>
 <td align="center">
 <a href="https://quamos.dev">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-7CFC00?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/>
 </a>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/kusum-bhattarai-sharma/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-7CFC00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
 </a>
 </td>
 <td align="center">
 <a href="mailto:bhattaraikusum51@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📧_EMAIL-7CFC00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
 </a>
 </td>
 </tr>
