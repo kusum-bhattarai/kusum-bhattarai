@@ -1,27 +1,16 @@
+<img src="dvsticker.gif" height="120px">
 
-The force is strong with this one! 
-
-```asm
-.data
-  name:  .asciiz "I am a Computer Science Major."
-  major: .asciiz "Welcome to my Github :)"
-
-.text
-  la $a0, name   # print major
-  li $v0, 4
-  syscall
-
-  la $a0, major  # print welcome msg
-  li $v0, 4
-  syscall
+```cpp
+struct Kusum {
+    std::string name  = "Kusum Bhattarai Sharma";
+    std::string major = "Computer Science (Math + Physics)";
+};
+ 
+int main() {
+    Kusum dev;
+    dev.introduce(); // "henlo! welcome to my github :)"
+}
 ```
-```vbnet
-Output:
-
-I am a Computer Science Major.
-Welcome to my Github :)
-```
-
 <p align = "center">
  <img src = "https://raw.githubusercontent.com/kusum-bhattarai/kusum-bhattarai/main/nobg.png" alt = "IRONMAN" width = "400" height = "400"/>
 </p>
