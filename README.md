@@ -71,12 +71,13 @@ int main() {
 ---
 
 
-## <img width="35" height="35" src="https://github.com/user-attachments/assets/6cbd95e5-1868-4529-8a12-bf423ed534b3" alt="batman-emoji"> When I'm not coding, you’ll find me:
+## When I'm not coding, you’ll find me: 
 
 - Watching **Formula 1** and rooting for my favorite drivers. 🏎️  
 - Reading books and articles about **Philosophy, Astrophysics, and Computer Science.** 📚
 - Always looking for the perfect balance between **creativity and logic**, hehe ;)
-- Saving the city!
+- Saving the city (◣ _ ◢)  
+
 
 
 ---
